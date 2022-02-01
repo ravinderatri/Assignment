@@ -1,0 +1,13 @@
+My name is Ravinder kumar. I'm from jammu & Kashmir. I did my graduation in BA(arts).
+Currently I'm working as fornt end developer.
+
+I have learnt Day1 Session. 
+
+1 Indtoduction of git.
+2 How to create git account.
+3 Clone.
+4 Branches.
+5 Issues.
+6 Pull
+7 Repository.
+8 Forking
